@@ -31,6 +31,7 @@ def downscaleAllResolution(name):
     downscale(name,0.125)
     downscale(name,0.0625)
     downscale(name,0.03125)
+    downscale(name,0.015625)
 
 
 downscaleAllResolution("metv-con-2/")
